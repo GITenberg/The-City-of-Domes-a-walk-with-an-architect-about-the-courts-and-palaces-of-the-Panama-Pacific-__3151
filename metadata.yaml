@@ -1,0 +1,27 @@
+_repo: The-City-of-Domes-a-walk-with-an-architect-about-the-courts-and-palaces-of-the-Panama-Pacific-__3151
+creator:
+  author:
+    agent_name: Barry, John D. (John Daniel)
+    alias: Barry, John Daniel
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '1117'
+    url: http://www.gutenberg.org/2009/agents/1117
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+title: 'The City of Domes : a walk with an architect about the courts and palaces
+  of the Panama-Pacific International Exposition, with a discussion of its architecture,
+  its sculpture, its mural decorations, its coloring and its lighting, preceded by
+  a history of its growth'
+url: http://www.gutenberg.org/ebooks/3151
