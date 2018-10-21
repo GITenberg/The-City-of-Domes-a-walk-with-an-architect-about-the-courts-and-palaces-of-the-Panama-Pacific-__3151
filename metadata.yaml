@@ -1,5 +1,5 @@
 _repo: The-City-of-Domes-a-walk-with-an-architect-about-the-courts-and-palaces-of-the-Panama-Pacific-__3151
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'N'
 - !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- GITenberg
 title: 'The City of Domes : a walk with an architect about the courts and palaces
   of the Panama-Pacific International Exposition, with a discussion of its architecture,
   its sculpture, its mural decorations, its coloring and its lighting, preceded by
